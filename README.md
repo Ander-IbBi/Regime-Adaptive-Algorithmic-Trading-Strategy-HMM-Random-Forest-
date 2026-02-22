@@ -91,11 +91,3 @@ This is an exploratory research implementation. Several simplifications are wort
 
 ---
 
-## References
-
-- Rabiner, L.R. (1989). *A tutorial on hidden Markov models and selected applications in speech recognition.* Proceedings of the IEEE.
-- Johnson-Skinner, E., Liang, Y., Yu, N., Morariu, A. (2021). *A Novel Algorithmic Trading Strategy using Hidden Markov Model for Kalman Filtering Innovations.* IEEE COMPSAC.
-- Gatev, E., Goetzmann, W.N., Rouwenhorst, K.G. (2006). *Pairs trading: Performance of a relative-value arbitrage rule.* Review of Financial Studies.
-- Hamilton, J.D. (1989). *A new approach to the economic analysis of nonstationary time series and the business cycle.* Econometrica.
-
----
